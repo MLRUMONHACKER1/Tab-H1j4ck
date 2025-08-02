@@ -13,7 +13,7 @@ This educational project shows how **Tab H1j@cking** works — a trick where att
 
 **🌐 Free Hosting & Subdomain**
 
-> TV8CI3w6PlE://you76tu.be/TV8CI3w6PlE
+> http://t.me/mlrumon
 
 ---
 
@@ -41,7 +41,7 @@ document.addEventListener('visibilitychange', function () {
 
 **🎥 Educational Demo**
 
-> https://youtube.com/shorts/fQO1w-J7Wbo
+>http://t.me/mlrumon
 
 ---
 
